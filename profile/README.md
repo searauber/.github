@@ -1,7 +1,7 @@
 ## SeaRäuber
 
 
-![Preview](https://raw.githubusercontent.com/bitnaughts/.github/main/assets/sr-tarot.png)
+![Preview](https://raw.githubusercontent.com/searauber/.github/main/assets/sr-tarot.png)
 
 ## Dependencies
 
