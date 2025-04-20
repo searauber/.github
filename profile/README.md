@@ -9,6 +9,13 @@ In **Searauber**, logical master is only the first chapter of the story. While y
 
 ![Preview](https://raw.githubusercontent.com/searauber/.github/main/assets/sr-3.png)
 
+## Dev Log
+
+### Water w/ Wind
+
+![Water/Wind](https://raw.githubusercontent.com/searauber/.github/main/assets/wing.gif))
+
+
 ## Dependencies
 
 - [Unity Hub](https://unity3d.com/get-unity/download)
