@@ -6,7 +6,8 @@ In **Searauber**, logical master is only the first chapter of the story. While y
 
 ![Preview](https://raw.githubusercontent.com/searauber/.github/main/assets/sr-tarot2.png)
 
-![Preview](https://raw.githubusercontent.com/searauber/.github/main/assets/sr-tarot.png)
+
+![Preview](https://raw.githubusercontent.com/searauber/.github/main/assets/sr-3.png)
 
 ## Dependencies
 
@@ -345,3 +346,5 @@ Focusing gameplay around shipyards and shipbuilding could create an intricate an
 ---
 
 This system could expand endlessly with upgrades, resource management challenges, and coding possibilities. Ships wouldn’t just be tools but dynamic characters in the player’s overarching narrative, evolving through human ingenuity and strategic programming.
+
+![Preview](https://raw.githubusercontent.com/searauber/.github/main/assets/sr-tarot.png)
