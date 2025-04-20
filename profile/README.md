@@ -13,7 +13,7 @@ In **Searauber**, logical master is only the first chapter of the story. While y
 
 ### Water w/ Wind
 
-![Water/Wind](https://raw.githubusercontent.com/searauber/.github/main/assets/wing.gif))
+![Water/Wind](https://raw.githubusercontent.com/searauber/.github/main/assets/wind.gif)
 
 
 ## Dependencies
